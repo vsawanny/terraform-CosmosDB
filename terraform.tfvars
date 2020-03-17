@@ -1,6 +1,6 @@
 cosmosdb_account_config = [
 {
-name = "cosmoDB1"
+name = "cosmodb1"
 offer_type = "Standard"
 kind = "GlobalDocumentDB"
 enable_automatic_failover = true
@@ -9,7 +9,7 @@ type = "sqldb"
 
 },
 {
-name = "cosmoDB2"
+name = "cosmodb2"
 offer_type = "Standard"
 kind = "MongoDB"
 enable_automatic_failover = true
